@@ -17,6 +17,9 @@ construit avec n8n et l'API OpenAI.
 ## Architecture
 ![Workflow n8n](screenshot.png)
 
+## Démo
+https://github.com/jonas-benitah/whatsapp-chatbot-coiffeur/blob/main/demo.mp4
+
 ## Prochaines étapes
 - Prise de rendez-vous automatique
 - Intégration Google Calendar
